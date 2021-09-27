@@ -1,0 +1,51 @@
+[
+  {
+    "id": "prod-1",
+    "name": "La ciudad de Petra",
+    "country": "Jordania",
+    "imageUrl": "https://i.ytimg.com/vi/-LsfWD87zBs/sddefault.jpg",
+    "description": "Petra es la primera de las siete nuevas maravillas del Mundo Moderno. Esta ciudad de Jordania, originalmente conocida como Raqmu, es famosa por su arquitectura excavada en la roca además de por sus avanzado sistema de conductos de agua. Petra, constituida posiblemente ya en el 312 a.C como la capital de los nabat"
+  },
+  {
+    "id": "prod-2",
+    "name": "El Taj Mahal",
+    "country": "India",
+    "imageUrl":"https://images.greelane.com/proxy?url=https%3A%2F%2Fwww.thoughtco.com%2Fthmb%2F1g2-jnNGFo6SMikINMmHOmKsBMI%3D%2F3865x2576%2Ffilters%3Afill%28auto%2C1%29%2Fsunrise-at-taj-mahal--agra--uttar-pradash--india-583682538-5b91840bc9e77c0050bdc67b.jpg&width=750",
+    "description": "El Taj Mahal, una construcción funeraria levantada en el siglo XVII bajo encargo del emperador Shah Jahan en honor a su esposa favorita, Mumtaz Mahal."
+  },
+  {
+    "id": "prod-3",
+    "name": "El Machu Picchu",
+    "country": "Perú",
+    "imageUrl": "https://static.dw.com/image/48759393_303.jpg",
+    "description": "la ciudad inca del Machu Picchu, en la región de Cusco, en Perú. Situada en la cresta de una montaña a 2.430 metros sobre el nivel del mar, esta construcción de estilo clásico Inca, que los arqueólogos relacionan con una finca pensada para albergar al emperador inca Pachacuti, cuenta con tres estructuras principales, el Inti Watana, el Templo del Sol y la Sala de las Tres Ventanas, y varios edificios periféricos, de los que gran parte han sido reconstruidos para dar una mejor idea a los turistas de cómo era la ciudadela original."
+  },
+  {
+    "id": "prod-3",
+    "name": "La pirámide de Chichén Itza",
+    "country": "México",
+    "imageUrl": "https://www.lifeder.com/wp-content/uploads/2017/07/C%C3%B3mo-y-Para-qu%C3%A9-se-Construy%C3%B3-la-Pir%C3%A1mide-de-Chichen-Itz%C3%A1.jpg",
+    "description": "Uno de los principales sitios arqueológicos de la península de Yucatán, en México que originalmente dio forma a una ciudad maya de la época precolombina dominada por el templo de Kukulkán, también conocido como 'El Castillo', nombre con el que lo bautizaron los conquistadores españoles"
+  },
+  {
+    "id": "prod-3",
+    "name": "El Coliseo de Roma",
+    "country": "Italia",
+    "imageUrl": "https://www.cienciahistorica.com/wp-content/uploads/2017/04/Coliseo-romano-768x510.jpg.webp",
+    "description": "el anfiteatro Flavio o Coliseo. Esta edificación, la más grande jamás llevada a cabo en su categoría, data del siglo I y actualmente es una de las más representativas de la época del Imperio romano así como de la Antigüedad clásica en su conjunto. Se estima que el Coliseo podría albergar entre 50.000 y 80.000 espectadores, que podían acudir hasta él para ver representaciones públicas como simulacros de batallas navales o dramas basados en la mitología clásica así como concursos de gladiaores"
+  },
+  {
+    "id": "prod-3",
+    "name": "La Gran Muralla de China",
+    "country": "China",
+    "imageUrl": "https://cdn2.civitatis.com/china/pekin/galeria/header/gran-muralla-mutianyu.jpg",
+    "description": "Esta serie de fortificaciones de piedra, ladrillo, madera y tierra apisonada que recorre las fronteras históricas del norte de China construida entre el siglo V a. C y el XVI sirvió como protección para el imperio chino en la histórica frontera del norte del país, en la que fue recurrentemente atacado por nómadas de Mongolia y Manchuria."
+  },
+  {
+    "id": "prod-3",
+    "name": "La estatua del Cristo Redentor",
+    "country": "Brasil",
+    "imageUrl": "https://www.maravillas-del-mundo.com/Cristo-redentor/images/Vignettes/Statue/Christ-redempteur-V.jpg",
+    "description": "Se trata de una estatua de 30 metros de altura y diseño Art Decó que corona la montaña de Corcovado representando el cuerpo de Jesús de Nazaret. Esta obra, inaugurada en 1931 fue fruto del trabajo de las manos del escultor polaco-fracés Paul Landowski y el ingeniero brasileño Heitor da Silva Costa,"
+  }
+]
