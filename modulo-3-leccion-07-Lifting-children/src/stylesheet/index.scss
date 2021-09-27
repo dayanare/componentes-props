@@ -1,0 +1,15 @@
+@import './variables.scss';
+* {
+  font-family: 'Rubik', 'Roboto', sans-serif;
+  font-size: 18px;
+}
+
+body {
+  padding: 20px;
+  background-color: $background;
+}
+
+main {
+  padding: 20px;
+  color: #ddd;
+}
