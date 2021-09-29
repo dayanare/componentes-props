@@ -2,11 +2,15 @@ import React from 'react';
 import Input from './Input';
 import Radio from './Radio';
 
-// si te das cuenta estamos dividiendo una web en 2 tipos de componentes:
-// - componente App o Madre superiora: maneja todos los datos, es lista, es inteligente sabe todo lo que hay que hacer
+// si te das cuenta estamos dividiendo una web en 2 tipos
+//de componentes:
+// - componente App o Madre superiora: maneja todos los datos,
+//    es lista, es inteligente sabe todo lo que hay que hacer
 // - resto de componentes: son menos listos, simplemente:
 //   - reciben datos por props y los pintan
-//   - escuchan eventos y suben para arriba por lifting los datos, pero ni si quiera procesan los datos, eso que lo haga la madre que es más lista
+//   - escuchan eventos y suben para arriba por lifting
+//    los datos, pero ni si quiera procesan los datos,
+//   eso que lo haga la madre que es más lista
 
 const Form = (props) => {
   const handleButton = (ev) => {
